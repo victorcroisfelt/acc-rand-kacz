@@ -1,7 +1,7 @@
 # Accelerated Randomized Methods for Receiver Design in Extra-Large Scale MIMO Arrays
 This is a research-oriented code package that is primarily intended to allow readers to replicate the results of the article mentioned below and also encourage and accelerate further research on this topic:
 
-V. C. Rodrigues, A. Amiri, T. Abrao, E. D. Carvalho and P. Popovski, "Accelerated Randomized Methods for Receiver Design in Extra-Large Scale MIMO Arrays," in IEEE Transactions on Vehicular Technology, doi: 10.1109/TVT.2021.3082520. Available on: https://ieeexplore.ieee.org/document/9437708.
+V. Croisfelt, A. Amiri, T. Abrao, E. D. Carvalho and P. Popovski, "Accelerated Randomized Methods for Receiver Design in Extra-Large Scale MIMO Arrays," in IEEE Transactions on Vehicular Technology, doi: 10.1109/TVT.2021.3082520. Available on: https://ieeexplore.ieee.org/document/9437708.
 
 The package is based on the Python language and can, in fact, reproduce all the numerical results discussed in the article. To contextualize, in the sequel, we present the abstract of the article and other important information.
 
