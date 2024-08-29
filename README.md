@@ -15,8 +15,21 @@ Massive multiple-input-multiple-output (M-MIMO) features a capability for spatia
 ## Content
 The codes provided here can be used to simulate Figs. 3 to 6. The data of each figure is obtained by executing the script named after the respective figure. Further details about each file can be found inside them.
 
-## Citing this Repository and License
-This code is subject to the MIT license. If you use any part of this repository for research, please consider to cite our aforementioned work.
-
 ## Acknowledgments
 This research was supported in part by the Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) under grant 88887.461434/2019-00.
+
+## Citing this Repository and License
+This code is subject to the MIT license. If you use any part of this repository for research, please consider citing our aforementioned work.
+
+```bibtex
+@ARTICLE{9437708,
+  author={Croisfelt, Victor and Amiri, Abolfazl and Abrao, Taufik and de Carvalho, Elisabeth and Popovski, Petar},
+  journal={IEEE Transactions on Vehicular Technology}, 
+  title={Accelerated Randomized Methods for Receiver Design in Extra-Large Scale MIMO Arrays}, 
+  year={2021},
+  volume={70},
+  number={7},
+  pages={6788-6799},
+  keywords={Receivers;Complexity theory;Antenna arrays;Approximation algorithms;Mathematical model;MIMO communication;Signal processing algorithms;Massive MIMO;extra-large scale massive MIMO;randomized Kaczmarz algorithm;receiver design},
+  doi={10.1109/TVT.2021.3082520}
+}
